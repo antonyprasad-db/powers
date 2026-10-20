@@ -219,7 +219,7 @@ Overlapping skills with older names (for example `databricks-genie` next to `dat
 
 ### Power packaging
 
-This Power's packaging (`plugin.json`, `dev.kiro/INSTRUCTIONS.md` and this skill) is published under the same license terms as the [kirodotdev/powers](https://github.com/kirodotdev/powers) catalog.
+This Power's packaging (`plugin.json` and this skill) is published under the same license terms as the [kirodotdev/powers](https://github.com/kirodotdev/powers) catalog.
 
 ### Skills
 
